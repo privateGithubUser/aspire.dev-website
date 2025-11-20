@@ -212,6 +212,28 @@ export const sidebarTopics: StarlightSidebarTopicsUserConfig = [
                 'zh-CN': '',
               }
             }
+          },
+          {
+            label: "Aspireify an existing app",
+            translations: {
+              "da": "Aspireify en eksisterende app",
+              "de": "Eine bestehende App Aspireify",
+              "en": "Aspireify an existing app",
+              "es": "Aspireify una aplicación existente",
+              "fr": "Aspireify une application existante",
+              "hi": "मौजूदा ऐप को Aspireify करें",
+              "id": "Aspireify aplikasi yang sudah ada",
+              "it": "Aspireify un'app esistente",
+              "ja": "既存のアプリを Aspireify する",
+              "ko": "기존 앱을 Aspireify하기",
+              "pt-BR": "Aspireify um app existente",
+              "pt-PT": "Aspireify uma app existente",
+              "ru": "Aspireify существующее приложение",
+              "tr": "Mevcut bir uygulamayı Aspireify et",
+              "uk": "Aspireify наявний застосунок",
+              "zh-CN": "对现有应用进行 Aspireify"
+            },
+            slug: 'get-started/add-aspire-existing-app'
           }
         ]
       },
